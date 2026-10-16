@@ -63,21 +63,6 @@
 
 ---
 
-## <img src="icons/map.svg" width="24" height="24" alt="" align="top"> 한눈에 보는 흐름
-
-```mermaid
-flowchart LR
-    A[교과서 PDF] --> B[lesson-kit]
-    B --> C[수업 슬라이드·평가지]
-    B --> D[NotebookLM 숏폼]
-    D --> E[유튜브 Shorts]
-    E --> F[짬짬이 수업영상]
-    G[공문 폴더] --> H[upmu-pahak]
-    H --> I[업무 길잡이 HTML]
-```
-
----
-
 ## <img src="icons/message-circle.svg" width="24" height="24" alt="" align="top"> 함께해요
 
 도구를 써 보시다가 불편한 점이나 바라는 점이 있으면 각 저장소의 **Issues**에 편하게 남겨 주세요.<br>
