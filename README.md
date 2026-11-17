@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="교사의 시간은 학생에게 - 초등교사 x AI 자동화" width="100%">
 
-# 안녕하세요, 송화영입니다 <img src="icons/hand.svg" width="30" height="30" alt="" align="top">
+# 안녕하세요, 딸깍쌤 송화영입니다 <img src="icons/hand.svg" width="30" height="30" alt="" align="top">
 
 **초등교사 19년차 · 교사 대상 AI 자동화 연수 강사 · 도구 개발자**
 
